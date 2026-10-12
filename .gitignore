@@ -1,0 +1,3 @@
+arc_portfolio_bundle/
+*.json.tmp
+__pycache__/
